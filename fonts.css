@@ -4,14 +4,14 @@
 }
 @font-face{
     font-family: 'THSarabun_B';
-    src : url(fonts/THSarabun+Bold.ttf);
+    src : url(fonts/THSarabun Bold.ttf);
 }
 @font-face{
     font-family: 'THSarabun_I';
-    src : url(fonts/THSarabun+Italic.ttf);
+    src : url(fonts/THSarabun Italic.ttf);
 }
 
 @font-face{
     font-family: 'THSarabun_BI';
-    src : url(fonts/THSarabun+BoldItalic.ttf);
+    src : url(fonts/THSarabun BoldItalic.ttf);
 }
