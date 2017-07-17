@@ -14,13 +14,13 @@
   background: #fafafa;
   border-bottom: #eee 1px solid;
   border-radius: 2px 2px 0 0;
-  font-family: THSarabun_B;
-  font-size:20px;
+  font-family: THSarabun;
+    font-size: 24px;
 }
 .alertify .ajs-body {
   color: black;
   font-family: THSarabun;
-  font-size:17px;
+  font-size:20px;
 }
 .alertify .ajs-body .ajs-content .ajs-input {
   display: block;
