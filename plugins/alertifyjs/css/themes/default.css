@@ -32,8 +32,8 @@
       box-sizing: border-box;
 }
 .ajs-content{
-  font-family: THSarabun;
-  font-size:20px;
+  font-family: THSarabun !important;
+  font-size:20px !important;
 }
 .alertify .ajs-body .ajs-content p {
   margin: 0;
