@@ -31,6 +31,10 @@
   border: 1px solid #CCC;
       box-sizing: border-box;
 }
+.ajs-content{
+  font-family: THSarabun;
+  font-size:20px;
+}
 .alertify .ajs-body .ajs-content p {
   margin: 0;
 }
