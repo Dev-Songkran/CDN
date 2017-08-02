@@ -1,0 +1,6 @@
+@font-face{font-family:'icomoon';src:url('fonts/icomoon.eot?ngak19');src:url('fonts/icomoon.eot?ngak19#iefix') format('embedded-opentype'),url('fonts/icomoon.ttf?ngak19') format('truetype'),url('fonts/icomoon.woff?ngak19') format('woff'),url('fonts/icomoon.svg?ngak19#icomoon') format('svg');font-weight:normal;font-style:normal}
+[class^="icon-"],[class*=" icon-"]{font-family:'icomoon'!important;speak:none;font-style:normal;font-weight:normal;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+.icon-png:before{content:"\e900"}.icon-pdf:before{content:"\e901"}.icon-jpg:before{content:"\e902"}
+.icon-doc:before{content:"\e903"}.icon-xls:before{content:"\e904"}.icon-docx:before{content:"\e905"}
+.icon-ppt:before{content:"\e906"}.icon-xlsx:before{content:"\e907"}.icon-zip:before{content:"\e908"}
+.icon-rar:before{content:"\e909"}.icon-gif:before{content:"\e90a"}
